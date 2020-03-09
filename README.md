@@ -1,2 +1,2 @@
 # Artificial-intelligence
-(University 4th semester) Source code for the Artificial intelligence assignments.
+(University 4th semester - ongoing) Source code for the Artificial intelligence assignments.
